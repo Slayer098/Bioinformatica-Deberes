@@ -5,4 +5,4 @@ Deber 2. netsize_all.sh
 " for permite repetir una tarea con ligeras variaciones, generalmente si son tareas "
 " greap--> útiles disponibles. Este busca un patrón que definamos en un archivo de texto "
 for file in $(ls *.txt); do wc -l $file;  head -n1 $file | grep -o " " | wc -l; done
-" Anderson Randy Yumbo Licuy "
+
