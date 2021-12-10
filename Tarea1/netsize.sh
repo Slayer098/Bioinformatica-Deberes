@@ -7,7 +7,7 @@ nators, the columns plants, a 0 indicates the absence and 1 the presence of an
 interaction between the plant and the pollinator. "
 " Usaremos el archivo n3.txt "
 cat n3.txt
-" Voy a imprimir cat../Saavedra2013/n3.txt | wc -l "
+"imprimo cat../Saavedra2013/n3.txt | wc -l "
 " cat imprime contenido de los archivos ( cat file1 file2 file3) "
 " wc -l Cuenta solo líneas ( sort w, sort c) "
 " n de filas "
