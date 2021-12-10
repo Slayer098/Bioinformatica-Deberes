@@ -3,8 +3,8 @@
 
 These can be represented as rectangular matrices where the rows are polli-
 nators, the columns plants, a 0 indicates the absence and 1 the presence of an
+Interaction between the plant and the pollinator. "
 
-interaction between the plant and the pollinator. "
 " Usaremos el archivo n3.txt "
 cat n3.txt
 "imprimo cat../Saavedra2013/n3.txt | wc -l "
