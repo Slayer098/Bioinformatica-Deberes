@@ -13,6 +13,6 @@ Interaction between the plant and the pollinator.
 -head muestra las filas(lo que pongamos) 
 -tr translasion de caracteres de un archivo 
 # Dato adicional
-Estos codigos salen del PDF de Bioinformatica
+las funciones de comandos salen del PDF de Bioinformatica
 # Participante
 Anderson Yumbo
