@@ -1,4 +1,4 @@
-Deber 2. netsize_all.sh
+#Deber 2. netsize_all.sh
 
 " Use of For "
 " These data come out of Saavedra "
