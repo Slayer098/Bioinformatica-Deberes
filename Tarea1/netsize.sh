@@ -1,4 +1,4 @@
-echo " Deber Bioformatica 1.10.3 "
+" Deber Bioformatica 1.10.3 "
 echo " Saavedra and Stouffer (2013) studied several plant–pollinator networks.
 
 These can be represented as rectangular matrices where the rows are polli-
