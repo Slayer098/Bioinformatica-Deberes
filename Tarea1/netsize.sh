@@ -12,6 +12,8 @@ cat n3.txt
 " wc -l Cuenta solo líneas ( sort w, sort c) "
 " n de filas "
 cat ../Saavedra2013/n3.txt | wc -l
+
+
 " n de columnas "
 " head -n1 ../Saavedra2013/n3.txt | tr -d " " | tr -d "\ n" | wc -c "
 " head muestra las filas(lo que pongamos) "
