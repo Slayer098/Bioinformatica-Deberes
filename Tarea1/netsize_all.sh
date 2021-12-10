@@ -13,3 +13,6 @@ Deber 2. netsize_all.sh
 " greap--> útiles disponibles. Este busca un patrón que definamos en un archivo de texto "
 for file in $(ls *.txt); do wc -l $file;  head -n1 $file | grep -o " " | wc -l; done
 
+Dato
+Para correr estos codigos se necesita entrar a git bash
+
