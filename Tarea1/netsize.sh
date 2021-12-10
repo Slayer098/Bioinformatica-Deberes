@@ -11,3 +11,5 @@ cat ../Saavedra2013/n3.txt | wc -l
 
 head -n1 ../Saavedra2013/n3.txt | tr -d " " | tr -d "\ n" | wc -c
 
+Dato
+En el README, esta el rar con codigos
