@@ -1,12 +1,13 @@
 # Deber 2. netsize_all.sh
 ## Write a script that prints the numbers of rows and columns for each network 
 ### Use of For 
-These data com#  out of Saavedra 
+-for permite repetir una tarea con ligeras variaciones, generalmente si son tareas
+
+# These data com#  out of Saavedra 
 1) en nano realize un conteo general de los archivos
 2) para luego captar como usar el For
 
 
-for permite repetir una tarea con ligeras variaciones, generalmente si son tareas
 
 Dato
 Para correr estos codigos se necesita entrar a git bash
