@@ -4,9 +4,9 @@
 These data come out of Saavedra 
 1) en nano realize un conteo general de los archivos
 2) para luego captar como usar el For
-" Write a script that prints the numbers of rows and columns for each network "
+Write a script that prints the numbers of rows and columns for each network "
 
-" for permite repetir una tarea con ligeras variaciones, generalmente si son tareas "
+for permite repetir una tarea con ligeras variaciones, generalmente si son tareas
 
 
 Dato
