@@ -7,7 +7,5 @@
 1) en nano realize un conteo general de los archivos
 2) para luego captar como usar el For
 
-
-
 Dato
 Para correr estos codigos se necesita entrar a git bash
