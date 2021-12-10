@@ -1,6 +1,6 @@
-Codigos del primer la primera parte del deber
+#Codigos del primer la primera parte del deber
 
-
+## Codigos
 cat n3.txt
 " n de filas"
 
